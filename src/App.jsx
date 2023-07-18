@@ -1,6 +1,7 @@
 import { Index } from './pages'
 import { About } from './pages/about'
 import { ExperienceGalapagos } from './pages/experienceGalapagos'
+import { LastMinutes } from './pages/lastMinutes'
 import { OurFleet } from './pages/ourFleet'
 import { Router } from './router'
 
@@ -21,6 +22,10 @@ function App () {
     {
       path: '/our-fleet',
       component: OurFleet
+    },
+    {
+      path: '/last-minute-deals-and-special-promos',
+      component: LastMinutes
     }
   ]
 
