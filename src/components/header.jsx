@@ -1,3 +1,5 @@
+import { Link } from '../components/link'
+
 export function Header ({ children }) {
   return (
     <header id='brx-header' className='sticky' data-slide-up-after='90'>
@@ -47,39 +49,39 @@ export function Header ({ children }) {
                           id='menu-item-1770'
                           className='menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-1770 bricks-menu-item'
                         >
-                          <a href='/about-us' aria-current='page'>About Us</a>
+                          <Link to='/about-us' aria-current='page'>About Us</Link>
                         </li>
                         <li
                           id='menu-item-1771'
                           className='menu-item menu-item-type-post_type menu-item-object-page menu-item-1771 bricks-menu-item'
                         >
-                          <a href='../our-fleet'>Our Fleet</a>
+                          <Link to='/our-fleet'>Our Fleet</Link>
                         </li>
                         <li
                           id='menu-item-1772'
                           className='menu-item menu-item-type-post_type menu-item-object-page menu-item-1772 bricks-menu-item'
                         >
-                          <a href='../experience-galapagos'>Experience Galapagos</a>
+                          <Link to='/experience-galapagos'>Experience Galapagos</Link>
                         </li>
                         <li
                           id='menu-item-1773'
                           className='menu-item menu-item-type-post_type menu-item-object-page menu-item-1773 bricks-menu-item'
                         >
-                          <a href='../last-minute-deals-and-special-promos'>Last Minute
+                          <Link to='/last-minute-deals-and-special-promos'>Last Minute
                             Deals
-                          </a>
+                          </Link>
                         </li>
                         <li
                           id='menu-item-1774'
                           className='menu-item menu-item-type-post_type menu-item-object-page menu-item-1774 bricks-menu-item'
                         >
-                          <a href='../gallery'>Gallery</a>
+                          <Link to='/gallery'>Gallery</Link>
                         </li>
                         <li
                           id='menu-item-1775'
                           className='menu-item menu-item-type-post_type menu-item-object-page menu-item-1775 bricks-menu-item'
                         >
-                          <a href='../contact-us'>Contact Us</a>
+                          <Link to='/contact-us'>Contact Us</Link>
                         </li>
                       </ul>
                     </nav>
