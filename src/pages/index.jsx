@@ -8,128 +8,103 @@ export function Index () {
     <>
       <Helmet>
         <meta charset='UTF-8' />
-        <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-        <title>Rolft Wittmer</title>
-        <meta name='robots' content='noindex, nofollow' />
-        <link
-          rel='alternate' type='application/rss+xml' title='Rolf Wittmer &raquo; Feed'
-          href='https://rwittmercom.delabridge.dev/feed/'
-        />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
+        <title>Rolf Wittmer</title>
+        <meta name='robots' content='max-image-preview:large' />
+        <link rel='alternate' type='application/rss+xml' title='Rolf Wittmer &raquo; Feed' href='feed/index.htm' />
         <link
           rel='alternate' type='application/rss+xml' title='Rolf Wittmer &raquo; Comments Feed'
-          href='https://rwittmercom.delabridge.dev/comments/feed/'
+          href='comments/feed/index.htm'
         />
         <link
           rel='stylesheet' id='bricksforge-style-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/plugins/bricksforge/assets/css/style.css?ver=0.9.9.2'
+          href='wp-content/plugins/bricksforge/assets/css/style.css?ver=0.9.9.4' media='all'
+        />
+        <link
+          rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.2.2'
           media='all'
         />
         <link
-          rel='stylesheet' id='wp-block-library-css'
-          href='https://rwittmercom.delabridge.dev/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'
+          rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min.css?ver=6.2.2'
+          media='all'
         />
-        <link
-          rel='stylesheet' id='classic-theme-styles-css'
-          href='https://rwittmercom.delabridge.dev/wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'
-        />
+
         <link
           rel='stylesheet' id='automaticcss-core-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/automatic-css/automatic.css?ver=1687652138'
-          media='all'
+          href='wp-content/uploads/automatic-css/automatic.css?ver=1687652138' media='all'
         />
         <link
           rel='stylesheet' id='bricks-frontend-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/themes/bricks/assets/css/frontend-light.min.css?ver=1689150705'
-          media='all'
+          href='wp-content/themes/bricks/assets/css/frontend-light.min.css?ver=1689150705' media='all'
         />
+
         <link
-          rel='stylesheet' id='bricks-child-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/themes/rolf-wittmer/style.css?ver=1687652142' media='all'
+          rel='stylesheet' id='bricks-child-css' href='wp-content/themes/rolf-wittmer/style.css?ver=1687652142'
+          media='all'
         />
         <link
           rel='stylesheet' id='bricks-color-palettes-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/color-palettes.min.css?ver=1689172937'
-          media='all'
+          href='wp-content/uploads/bricks/css/color-palettes.min.css?ver=1689172937' media='all'
         />
         <link
           rel='stylesheet' id='bricks-theme-style-rolf_wittmer-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/theme-style-rolf_wittmer.min.css?ver=1689172939'
+          href='wp-content/uploads/bricks/css/theme-style-rolf_wittmer.min.css?ver=1689172939' media='all'
+        />
+        <link
+          rel='stylesheet' id='bricks-post-16-css' href='wp-content/uploads/bricks/css/post-16.min.css?ver=1689259305'
           media='all'
         />
         <link
-          rel='stylesheet' id='bricks-post-16-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/post-16.min.css?ver=1689259305'
+          rel='stylesheet' id='bricks-post-20-css' href='wp-content/uploads/bricks/css/post-20.min.css?ver=1689258195'
           media='all'
         />
         <link
-          rel='stylesheet' id='bricks-post-20-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/post-20.min.css?ver=1689258195'
-          media='all'
-        />
-        <link
-          rel='stylesheet' id='bricks-post-18-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/post-18.min.css?ver=1689217571'
+          rel='stylesheet' id='bricks-post-18-css' href='wp-content/uploads/bricks/css/post-18.min.css?ver=1689217571'
           media='all'
         />
         <link
           rel='stylesheet' id='bricks-post-2365-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/post-2365.min.css?ver=1689259798'
-          media='all'
+          href='wp-content/uploads/bricks/css/post-2365.min.css?ver=1689259798' media='all'
         />
         <link
           rel='stylesheet' id='bricks-post-1379-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/bricks/css/post-1379.min.css?ver=1689172944'
-          media='all'
+          href='wp-content/uploads/bricks/css/post-1379.min.css?ver=1689172944' media='all'
         />
         <link
           rel='stylesheet' id='bricks-font-awesome-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/themes/bricks/assets/css/libs/font-awesome.min.css?ver=1688654584'
-          media='all'
+          href='wp-content/themes/bricks/assets/css/libs/font-awesome.min.css?ver=1688654584' media='all'
         />
         <link
           rel='stylesheet' id='bricks-themify-icons-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/themes/bricks/assets/css/libs/themify-icons.min.css?ver=1688654584'
-          media='all'
+          href='wp-content/themes/bricks/assets/css/libs/themify-icons.min.css?ver=1688654584' media='all'
         />
         <link
           rel='stylesheet' id='bricks-photoswipe-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/themes/bricks/assets/css/libs/photoswipe.min.css?ver=1688654584'
-          media='all'
+          href='wp-content/themes/bricks/assets/css/libs/photoswipe.min.css?ver=1688654584' media='all'
         />
-        <link
-          rel='stylesheet' id='tablepress-default-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/tablepress-combined.min.css?ver=19' media='all'
-        />
+        <link rel='stylesheet' id='tablepress-default-css' href='wp-content/tablepress-combined.min.css?ver=19' media='all' />
         <link
           rel='stylesheet' id='automaticcss-bricks-css'
-          href='https://rwittmercom.delabridge.dev/wp-content/uploads/automatic-css/automatic-bricks.css?ver=1687652113'
-          media='all'
+          href='wp-content/uploads/automatic-css/automatic-bricks.css?ver=1687652113' media='all'
         />
-        <style id='bricks-frontend-inline-inline-css' />
-        <link rel='https://api.w.org/' href='https://rwittmercom.delabridge.dev/wp-json/' />
-        <link rel='alternate' type='application/json' href='https://rwittmercom.delabridge.dev/wp-json/wp/v2/pages/8' />
+
+        <link rel='https://api.w.org/' href='wp-json/index.htm' />
+        <link rel='alternate' type='application/json' href='wp-json/wp/v2/pages/8' />
         <link rel='EditURI' type='application/rsd+xml' title='RSD' href='https://rwittmercom.delabridge.dev/xmlrpc.php?rsd' />
-        <link
-          rel='wlwmanifest' type='application/wlwmanifest+xml'
-          href='https://rwittmercom.delabridge.dev/wp-includes/wlwmanifest.xml'
-        />
+        <link rel='wlwmanifest' type='application/wlwmanifest+xml' href='wp-includes/wlwmanifest.xml' />
         <meta name='generator' content='WordPress 6.2.2' />
-        <link rel='canonical' href='https://rwittmercom.delabridge.dev/' />
-        <link rel='shortlink' href='https://rwittmercom.delabridge.dev/' />
+        <link rel='canonical' href='index.htm' />
+        <link rel='shortlink' href='index.htm' />
         <link
           rel='alternate' type='application/json+oembed'
-          href='https://rwittmercom.delabridge.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F'
+          href='wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F'
         />
         <link
           rel='alternate' type='text/xml+oembed'
-          href='https://rwittmercom.delabridge.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F&amp;format=xml'
+          href='wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F&#038;format=xml'
         />
 
-        <script
-          id='ze-snippet'
-          src='https://static.zdassets.com/ekr/snippet.js?key=2057b5ff-fdaf-4468-830b-b52ed9ebf8a7'
-        />
-
+        <script id='ze-snippet' src='ekr/snippet.js?key=2057b5ff-fdaf-4468-830b-b52ed9ebf8a7'> </script>
       </Helmet>
       <a className='skip-link' href='#brx-content' aria-label='Skip to main content'>Skip to main content</a>
 
@@ -164,7 +139,7 @@ export function Index () {
                                                                                                           </span>
                                                        </span>
               <div id='brxe-ymrokt' className='brxe-div'><span id='brxe-rznruk' className='brxe-text-basic'>Contact our
-                <span className='rw_p--home-itineraries--highlighted'>sales team</span>.
+                <span className='rw_p--home-itineraries--highlighted'> sales team</span>.
                                                          </span><a
                 className='brxe-button rw_btn--primary rw_btn--outline-primary bricks-button'
                 href='https://rwittmercom.delabridge.dev/contact-us/'
@@ -655,40 +630,40 @@ export function Index () {
                         data-pswp-src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04.jpg'
                         data-pswp-width='600' data-pswp-height='600' data-pswp-id='home-collage'
                           ><img
-                                                                                         width='600'
-                                                                                         height='600'
-                                                                                         src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04.jpg'
-                                                                                         className='css-filter size-full' alt='' decoding='async' loading='lazy'
-                                                                                         srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04-270x270.jpg 270w'
-                                                                                         sizes='(max-width: 600px) 100vw, 600px'
-                                                                                       />
+                          width='600'
+                          height='600'
+                          src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04.jpg'
+                          className='css-filter size-full' alt='' decoding='async' loading='lazy'
+                          srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-04-270x270.jpg 270w'
+                          sizes='(max-width: 600px) 100vw, 600px'
+                        />
                           </a><a
-                                                                                         className='brxe-image rw_collage__single-image tag bricks-lightbox'
-                                                                                         href='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
-                                                                                         data-pswp-src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
-                                                                                         data-pswp-width='600' data-pswp-height='600' data-pswp-id='home-collage'
-                                                                                           ><img
-                                width='600'
-                                height='600'
-                                src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
-                                className='css-filter size-full' alt='' decoding='async' loading='lazy'
-                                srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05-270x270.jpg 270w'
-                                sizes='(max-width: 600px) 100vw, 600px'
-                              />
-                                                                                           </a><a
-                                className='brxe-image rw_collage__single-image tag bricks-lightbox'
-                                href='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
-                                data-pswp-src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
-                                data-pswp-width='600' data-pswp-height='600' data-pswp-id='home-collage'
-                                  ><img
-                                                                                                 width='600'
-                                                                                                 height='600'
-                                                                                                 src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
-                                                                                                 className='css-filter size-full' alt='' decoding='async' loading='lazy'
-                                                                                                 srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06-270x270.jpg 270w'
-                                                                                                 sizes='(max-width: 600px) 100vw, 600px'
-                                                                                               />
-                                  </a>
+                          className='brxe-image rw_collage__single-image tag bricks-lightbox'
+                          href='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
+                          data-pswp-src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
+                          data-pswp-width='600' data-pswp-height='600' data-pswp-id='home-collage'
+                            ><img
+                          width='600'
+                          height='600'
+                          src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg'
+                          className='css-filter size-full' alt='' decoding='async' loading='lazy'
+                          srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-05-270x270.jpg 270w'
+                          sizes='(max-width: 600px) 100vw, 600px'
+                        />
+                            </a><a
+                          className='brxe-image rw_collage__single-image tag bricks-lightbox'
+                          href='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
+                          data-pswp-src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
+                          data-pswp-width='600' data-pswp-height='600' data-pswp-id='home-collage'
+                            ><img
+                          width='600'
+                          height='600'
+                          src='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg'
+                          className='css-filter size-full' alt='' decoding='async' loading='lazy'
+                          srcSet='https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06.jpg 600w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06-540x540.jpg 540w, https://rwittmercom.delabridge.dev/wp-content/uploads/home-history-section-collage-06-270x270.jpg 270w'
+                          sizes='(max-width: 600px) 100vw, 600px'
+                        />
+                            </a>
               </div>
               <div className='brxe-div grid--1 center--all gap--m'>
                 <div id='brxe-jdmejt' className='brxe-text-basic'>For reading the full story</div><a
