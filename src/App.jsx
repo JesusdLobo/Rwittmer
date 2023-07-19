@@ -3,6 +3,7 @@ import { About } from './pages/about'
 import { ContactUs } from './pages/contactUs'
 import { ExperienceGalapagos } from './pages/experienceGalapagos'
 import { Gallery } from './pages/gallery'
+import { TipTopII } from './pages/tipTopII'
 import { LastMinutes } from './pages/lastMinutes'
 import { OurFleet } from './pages/ourFleet'
 import { Router } from './router'
@@ -23,6 +24,22 @@ function App () {
     },
     {
       path: '/our-fleet',
+      component: OurFleet
+    },
+    {
+      path: '/fleet/tip-top-ii',
+      component: TipTopII
+    },
+    {
+      path: '/fleet/tip-top-iv',
+      component: OurFleet
+    },
+    {
+      path: '/fleet/tip-top-v',
+      component: OurFleet
+    },
+    {
+      path: '/fleet/koln',
       component: OurFleet
     },
     {

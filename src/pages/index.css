@@ -368,7 +368,7 @@ html {
 
 /* BREAKPOINT: Desktop (BASE) */
 .rw_section--footer.brxe-section {
-    background-image: url(wp-content/uploads/home-contact-us-section-bkg.jpg);
+    background-image: url(https://rwittmercom.delabridge.dev/wp-content/uploads/home-contact-us-section-bkg.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat
@@ -377,7 +377,7 @@ html {
 /* BREAKPOINT: Mobile landscape */
 @media (max-width: 767px) {
     .rw_section--footer.brxe-section {
-        background-image: url(wp-content/uploads/home-contact-us-section-mobile-bkg-480x1080.jpg);
+        background-image: url(https://rwittmercom.delabridge.dev/wp-content/uploads/home-contact-us-section-mobile-bkg-480x1080.jpg);
         background-size: cover
     }
 }
@@ -461,7 +461,7 @@ html {
 .rw_footer__contact-form-container.brxe-div {
     width: 55rem;
     max-width: 55rem;
-    background-image: url(wp-content/uploads/home-pattern-bkg.png);
+    background-image: url(https://rwittmercom.delabridge.dev/wp-content/uploads/home-pattern-bkg.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -653,9 +653,25 @@ html {
     fill: var(--bricks-color-gmetjh)
 }
 
-</style><link rel="https://api.w.org/" href="wp-json/index.htm"><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/8"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rwittmercom.delabridge.dev/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 6.2.2"><link rel="canonical" href="index.htm"><link rel='shortlink' href='index.htm'><link rel="alternate" type="application/json+oembed"
-href="wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F"><link rel="alternate" type="text/xml+oembed"
-href="wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F&#038;format=xml">< !-- Start of Zendesk Widget script --><script id="ze-snippet" src="ekr/snippet.js?key=2057b5ff-fdaf-4468-830b-b52ed9ebf8a7"></script>< !-- End of Zendesk Widget script --><style id='wpcb-styles-header'>
+
+/* BREAKPOINT: Desktop (BASE) */
+.rw_height__100.brxe-block {
+    height: 100%
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+.rw_popup-video-bkg.brxe-block {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center
+}
+
+
 
 /**
 * Section: Entire Site
@@ -705,4 +721,424 @@ href="wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Frwittmercom.delabridge.dev%2F
 
 #itinerary-slide .brxe-slider-nested .splide__slide {
     justify-content: start;
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+.brxe-popup-2365 .brx-popup-content {
+    background-color: rgba(255, 255, 255, 0.8)
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-dgaxcf {
+    top: -40px;
+    right: -40px
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-xmthhr {
+    font-size: 7rem;
+    width: 12rem
+}
+
+#brxe-xmthhr :not([fill="none"]) {
+    fill: var(--bricks-color-ntajqb) !important
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-gypmor .bricks-nav-menu {
+    flex-direction: column
+}
+
+#brxe-gypmor .bricks-nav-menu>li>a {
+    color: var(--bricks-color-ntajqb)
+}
+
+#brxe-gypmor .bricks-nav-menu>li>.brx-submenu-toggle>* {
+    color: var(--bricks-color-ntajqb)
+}
+
+#brxe-gypmor:where(.brxe-nav-menu) .bricks-nav-menu>li {
+    margin: 0 0 3rem 0;
+}
+
+#brxe-gypmor:where(.brxe-nav-menu) .bricks-nav-menu>li:last-child {
+    margin: 0;
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-vijabu {
+    overflow: hidden
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-bggdtj input[type=search]::placeholder {
+    color: var(--bricks-color-ntajqb)
+}
+
+#brxe-bggdtj button {
+    color: var(--bricks-color-ntajqb)
+}
+
+#brxe-bggdtj form {
+    border-color: var(--bricks-color-ntajqb)
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-cojqwa {
+    color: var(--bricks-color-ntajqb);
+    font-size: 1.6rem;
+    gap: 2.4rem
+}
+
+#brxe-cojqwa a {
+    color: #858585;
+}
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    #brxe-cojqwa .repeater-item:nth-child(1) {
+        color: var(--bricks-color-ntajqb)
+    }
+
+    #brxe-cojqwa .repeater-item:nth-child(2) {
+        color: var(--bricks-color-ntajqb)
+    }
+
+    #brxe-cojqwa {
+        color: var(--bricks-color-ntajqb)
+    }
+
+    /* CUSTOM CSS */
+    #brxe-cojqwa a {
+        color: #858585;
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-gdfqqt {
+    flex-direction: column;
+    row-gap: var(--space-s)
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-nvcrrc {
+    position: relative
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-cartcz {
+    align-items: center;
+    justify-content: center;
+    min-height: 100%
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-vdqued {
+    min-height: 100svh
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-elnnad .splide__arrow {
+    height: 20px;
+    width: 20px
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-pwntia {
+    align-items: center;
+    justify-content: center
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+.brxe-popup-458 .brx-popup-content {
+    width: 80rem;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0
+}
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    .brxe-popup-458 .brx-popup-content {
+        background-image: url(https://rwittmercom.delabridge.dev/wp-content/uploads/countdown-popup-bkg-vertical-785x1080.jpg);
+        background-size: cover;
+        background-position: top center;
+        background-repeat: no-repeat;
+        width: 60%
+    }
+}
+
+/* BREAKPOINT: Mobile landscape */
+@media (max-width: 767px) {
+    .brxe-popup-458 .brx-popup-content {
+        width: 80%
+    }
+}
+
+/* BREAKPOINT: Mobile portrait */
+@media (max-width: 478px) {
+    .brxe-popup-458 .brx-popup-content {
+        width: 90%
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-oitdsu {
+    position: absolute;
+    color: var(--white);
+    fill: var(--white);
+    font-size: 1.6rem;
+    cursor: pointer;
+    top: var(--space-xs);
+    right: var(--space-xs);
+    z-index: 99999
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-nasrfz {
+    margin-bottom: var(--space-m);
+    font-size: 5.6rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    line-height: 1em
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-nidtre {
+    font-size: 1.8rem;
+    font-weight: 300;
+    width: 25ch
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-ysglbo {
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: var(--secondary);
+    margin-bottom: var(--space-s);
+    width: 25ch
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-hlbsst {
+    font-size: 1.6rem;
+    font-weight: 300
+}
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    #brxe-hlbsst {
+        font-size: 1.5rem
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-cnzlge .field {
+    margin-top: 0;
+    margin-right: 5px;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-size: 2.4rem;
+    line-height: 1em
+}
+
+#brxe-cnzlge {
+    flex-direction: row;
+    gap: 1rem;
+    margin-top: var(--space-s);
+    margin-bottom: var(--space-s)
+}
+
+#brxe-cnzlge .suffix {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    line-height: 1em
+}
+
+#brxe-cnzlge .field {
+    position: relative;
+    min-width: var(--rw-countdown-bkg-width);
+}
+
+#brxe-cnzlge .field::after {
+    position: absolute;
+}
+
+#brxe-cnzlge .field:nth-child(1)::after {
+    content: url("./wp-content/uploads/countdown-main-days-bkg.svg");
+}
+
+#brxe-cnzlge .field:nth-child(2)::after {
+    content: url("./wp-content/uploads/countdown-hours-bkg.svg");
+}
+
+#brxe-cnzlge .field:nth-child(3)::after {
+    content: url("./wp-content/uploads/countdown-minutes-bkg.svg");
+}
+
+#brxe-cnzlge .field:nth-child(4)::after {
+    content: url("./wp-content/uploads/countdown-minutes-bkg.svg");
+}
+
+@media (min-width:991px) {
+    #brxe-cnzlge .field::after {
+        width: var(--rw-countdown-bkg-width);
+        height: var(--rw-countdown-bkg-width);
+    }
+}
+
+@media (max-width:990px) {
+    #brxe-cnzlge .field::after {
+        width: calc(var(--rw-countdown-bkg-width) * 1.4);
+        height: calc(var(--rw-countdown-bkg-width) * 1.4);
+    }
+}
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    #brxe-cnzlge .field {
+        font-size: 4.2rem
+    }
+
+    #brxe-cnzlge .suffix {
+        font-size: 1.2rem
+    }
+
+    #brxe-cnzlge {
+        gap: 4.8rem;
+        margin-top: var(--space-l);
+        margin-bottom: var(--space-l)
+    }
+}
+
+/* BREAKPOINT: Mobile portrait */
+@media (max-width: 478px) {
+    #brxe-cnzlge .field {
+        font-size: 3rem
+    }
+
+    #brxe-cnzlge .suffix {
+        font-size: 1rem
+    }
+
+    #brxe-cnzlge {
+        gap: 3rem
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-jweivh {
+    font-weight: 300;
+    font-size: 1.1rem
+}
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    #brxe-jweivh {
+        font-size: 1.6rem
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-vnazae {
+    margin-top: var(--space-s)
+}
+
+
+/* BREAKPOINT: Tablet portrait */
+@media (max-width: 991px) {
+    #brxe-mvfewu {
+        align-items: center;
+        text-align: center
+    }
+}
+
+/* BREAKPOINT: Mobile portrait */
+@media (max-width: 478px) {
+    #brxe-mvfewu {
+        align-items: center
+    }
+}
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-guhgmy {
+    position: relative;
+    padding-top: var(--space-m);
+    padding-right: var(--space-m);
+    padding-bottom: var(--space-m);
+    padding-left: var(--space-m);
+    z-index: 9999
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-gjvoln {
+    width: 100%;
+    min-width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    opacity: 0.3
+}
+
+#brxe-gjvoln img {
+    width: 100%;
+    height: 100%
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-zauqrw {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-pukrtq {
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%
+}
+
+#brxe-pukrtq video {
+    object-fit: cover;
+}
+
+
+/* BREAKPOINT: Desktop (BASE) */
+#brxe-brwzio {
+    overflow: hidden;
+    position: relative;
+    justify-content: center;
+    align-items: center
 }
