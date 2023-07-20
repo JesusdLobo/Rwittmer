@@ -7,6 +7,9 @@ import { TipTopII } from './pages/tipTopII'
 import { LastMinutes } from './pages/lastMinutes'
 import { OurFleet } from './pages/ourFleet'
 import { Router } from './router'
+import { GalleryDetails } from './pages/galleryDetails'
+import { NextDepartures } from './pages/nextDepartures'
+import { TipTopIV } from './pages/tipTopIV'
 
 function App () {
   const appRoutes = [
@@ -32,7 +35,7 @@ function App () {
     },
     {
       path: '/fleet/tip-top-iv',
-      component: OurFleet
+      component: TipTopIV
     },
     {
       path: '/fleet/tip-top-v',
@@ -51,8 +54,16 @@ function App () {
       component: Gallery
     },
     {
+      path: '/gallery/:query',
+      component: GalleryDetails
+    },
+    {
       path: '/contact-us',
       component: ContactUs
+    },
+    {
+      path: '/next-departures',
+      component: NextDepartures
     }
   ]
 

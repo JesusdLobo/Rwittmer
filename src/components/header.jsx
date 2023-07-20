@@ -89,9 +89,9 @@ export function Header ({ children }) {
                 <form role='search' method='get' className='bricks-search-form' action='https://rwittmercom.delabridge.dev/'>
                   <label htmlFor='search-input-asjwkp' className='screen-reader-text'><span>Search
                     ...
-                                                                                      </span>
+                  </span>
                   </label>
-                  <input type='search' placeholder='SEARCH' value='' name='s' id='search-input-asjwkp' />
+                  <input type='search' placeholder='SEARCH' name='s' id='search-input-asjwkp' />
 
                   <button type='submit'><i className='overlay-trigger ti-search' /></button>
                 </form>
@@ -103,8 +103,8 @@ export function Header ({ children }) {
                                                          ><i
                                                            className='ti-email'
                                                          >
-                                                          </i>
-                  </a>
+                                                         </i>
+                                                         </a>
                   </li>
                   <li className='repeater-item has-link'>
                     <a href='https://api.whatsapp.com/send?phone=593987987497' target='_blank' rel='noreferrer'><i className='fas fa-phone' /></a>

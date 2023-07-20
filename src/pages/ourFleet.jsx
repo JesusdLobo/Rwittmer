@@ -22,10 +22,6 @@ export function OurFleet () {
           href='../wp-content/plugins/bricksforge/assets/css/style.css?ver=0.9.9.4' media='all'
         />
         <link
-          rel='stylesheet' id='classNameic-theme-styles-css' href='../wp-includes/css/classNameic-themes.min.css?ver=6.2.2'
-          media='all'
-        />
-        <link
           rel='stylesheet' id='automaticcss-core-css'
           href='../wp-content/uploads/automatic-css/automatic.css?ver=1687652138' media='all'
         />
@@ -215,7 +211,7 @@ export function OurFleet () {
             </span>
             </span>
               <div id='brxe-rmoqex' className='brxe-div'><span id='brxe-xhzbkb' className='brxe-text-basic'>Contact our
-                <span className='rw_p--home-itineraries--highlighted'>sales team</span>.
+                <span className='rw_p--home-itineraries--highlighted'> sales team</span>.
               </span><a
                                                            className='brxe-button rw_btn--primary rw_btn--outline-primary bricks-button'
                                                            href='../contact-us/index.htm'
@@ -223,10 +219,7 @@ export function OurFleet () {
                                                                 </a>
               </div>
             </div>
-            <div
-              data-script-id='cvjzoa' className='brxe-slider-nested splide'
-              data-splide='{&quot;type&quot;:&quot;slide&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;keyboard&quot;:&quot;global&quot;,&quot;height&quot;:&quot;50rem&quot;,&quot;gap&quot;:&quot;0px&quot;,&quot;start&quot;:0,&quot;perPage&quot;:&quot;3&quot;,&quot;perMove&quot;:1,&quot;speed&quot;:400,&quot;interval&quot;:3000,&quot;autoHeight&quot;:false,&quot;autoplay&quot;:false,&quot;pauseOnHover&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;arrows&quot;:false,&quot;pagination&quot;:true,&quot;breakpoints&quot;:{&quot;991&quot;:{&quot;perPage&quot;:&quot;2&quot;},&quot;767&quot;:{&quot;perPage&quot;:&quot;1&quot;}}}'
-            >
+            <div data-script-id='cvjzoa' className='brxe-slider-nested splide' data-splide='{&quot;type&quot;:&quot;slide&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;keyboard&quot;:&quot;global&quot;,&quot;height&quot;:&quot;50rem&quot;,&quot;gap&quot;:&quot;0px&quot;,&quot;start&quot;:0,&quot;perPage&quot;:&quot;3&quot;,&quot;perMove&quot;:1,&quot;speed&quot;:400,&quot;interval&quot;:3000,&quot;autoHeight&quot;:false,&quot;autoplay&quot;:false,&quot;pauseOnHover&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;arrows&quot;:false,&quot;pagination&quot;:true,&quot;breakpoints&quot;:{&quot;991&quot;:{&quot;perPage&quot;:&quot;2&quot;},&quot;767&quot;:{&quot;perPage&quot;:&quot;1&quot;}}}'>
               <div className='splide__track'>
                 <div className='splide__list'>
                   <div className='brxe-oxcscb brxe-block'>
@@ -241,54 +234,33 @@ export function OurFleet () {
                           sizes='(max-width: 1920px) 100vw, 1920px'
                                                                     />
                           <div className='brxe-hzichy brxe-div'>
-                            <div className='brxe-ujaxzj brxe-div'><span
-                              className='brxe-kervfg brxe-heading'
-                                                                  >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                            <div className='brxe-ujaxzj brxe-div'>
+                              <span className='brxe-kervfg brxe-heading'>East Route</span>
+                              <span className='brxe-pztblr brxe-heading'>Option 2</span>
                             </div>
-                            <div className='brxe-gnczue brxe-div'><span
-                              className='brxe-dlaeem brxe-heading'
-                                                                  >8 Days / 7 Nights
-                            </span>
+                            <div className='brxe-gnczue brxe-div'>
+                              <span className='brxe-dlaeem brxe-heading'>8 Days / 7 Nights</span>
                             </div>
-                            <div className='brxe-esmuxg brxe-div'><span
-                              className='brxe-osfcsw brxe-heading'
-                                                                  >Departures on <span
-                                                                    style={{ color: 'var(--secondary)' }}
-                                                                                 >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                            <div className='brxe-esmuxg brxe-div'>
+                              <span className='brxe-osfcsw brxe-heading'>
+                                Departures on
+                                <span style={{ color: 'var(--secondary)' }}>Friday</span>
+                              </span>
+                              <span className='brxe-lgefog brxe-heading'>
+                                Returns on
+                                <span style={{ color: 'var(--secondary)' }}>Friday</span>
+                              </span>
                             </div>
-                          </div><a
-                            className='brxe-nnwwzh brxe-button bricks-button'
-                            href='../wp-content/uploads/tip-top-iv-itinerary-8d-7n-option-2.pdf'
-                                >More
-                            Information
-                          </a>
+                          </div>
+                          <a className='brxe-nnwwzh brxe-button bricks-button' href='../wp-content/uploads/tip-top-iv-itinerary-8d-7n-option-2.pdf'>More Information</a>
                         </div>
-                        <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
-                          Days / 7 Nights
-                        </span>
+                        <div className='brxe-vatcbz brxe-div back'>
+                          <span className='brxe-jelmsj brxe-heading'>8 Days / 7 Nights</span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Bartolome, Chinese Hat, Española, Mosquera, Plaza, Rabida, San
                             Cristobal, Santa Cruz, Santa Fe, Santiago
-                          </div><a
-                            className='brxe-xzyruy brxe-button bricks-button'
-                            href='../wp-content/uploads/tip-top-iv-itinerary-8d-7n-option-2.pdf'
-                            target='_blank'
-                                >Download Itinerary<i
-                                  className='fas fa-file-arrow-down'
-                                                   />
-                          </a>
+                          </div>
+                          <a className='brxe-xzyruy brxe-button bricks-button' href='../wp-content/uploads/tip-top-iv-itinerary-8d-7n-option-2.pdf' target='_blank'>Download Itinerary<i className='fas fa-file-arrow-down' /></a>
                         </div>
                       </div>
                     </div>
