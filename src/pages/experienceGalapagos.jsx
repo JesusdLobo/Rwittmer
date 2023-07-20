@@ -258,75 +258,75 @@ export function ExperienceGalapagos () {
                                                            data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1939&quot;}]'
                                                            data-interaction-id='bbe11b'
                                                            /><i
-                id='island-espanola'
-                className='brxe-icon rw_map--island fas fa-circle'
-                data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1936&quot;}]'
-                data-interaction-id='d8ee4e'
-                /><i
-                  id='island-plaza' className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1934&quot;}]'
-                  data-interaction-id='7e30b7'
-                  /><i
-                  id='island-genovesa'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1932&quot;}]'
-                  data-interaction-id='717b6d'
-                  /><i
-                  id='island-san-cristobal'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1930&quot;}]'
-                  data-interaction-id='8c9d06'
-                  /><i
-                  id='island-isabela'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1928&quot;}]'
-                  data-interaction-id='a5dfee'
-                  /><i
-                  id='island-mosquera'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1926&quot;}]'
-                  data-interaction-id='be4db4'
-                  /><i
-                  id='island-north-seymour'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1924&quot;}]'
-                  data-interaction-id='15514f'
-                  /><i
-                  id='island-santa-cruz'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1921&quot;}]'
-                  data-interaction-id='9915b3'
-                  /><i
-                  id='island-floreana'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1919&quot;}]'
-                  data-interaction-id='11cabb'
-                  /><i
-                  id='island-santa-fe'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1917&quot;}]'
-                  data-interaction-id='8ee2e5'
-                  /><i
-                  id='island-chinese-hat'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1915&quot;}]'
-                  data-interaction-id='158c5b'
-                  /><i
-                  id='island-baltra'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1913&quot;}]'
-                  data-interaction-id='64f1bb'
-                  /><i
-                  id='island-rabida'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1911&quot;}]'
-                  data-interaction-id='424cd8'
-                  /><i
-                  id='island-bartolome'
-                  className='brxe-icon rw_map--island fas fa-circle'
-                  data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1861&quot;}]'
-                  data-interaction-id='c88a59'
-                  />
+                                                             id='island-espanola'
+                                                             className='brxe-icon rw_map--island fas fa-circle'
+                                                             data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1936&quot;}]'
+                                                             data-interaction-id='d8ee4e'
+                                                             /><i
+                                                               id='island-plaza' className='brxe-icon rw_map--island fas fa-circle'
+                                                               data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1934&quot;}]'
+                                                               data-interaction-id='7e30b7'
+                                                               /><i
+                    id='island-genovesa'
+                    className='brxe-icon rw_map--island fas fa-circle'
+                    data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1932&quot;}]'
+                    data-interaction-id='717b6d'
+                    /><i
+                      id='island-san-cristobal'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1930&quot;}]'
+                      data-interaction-id='8c9d06'
+                      /><i
+                      id='island-isabela'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1928&quot;}]'
+                      data-interaction-id='a5dfee'
+                      /><i
+                      id='island-mosquera'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1926&quot;}]'
+                      data-interaction-id='be4db4'
+                      /><i
+                      id='island-north-seymour'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1924&quot;}]'
+                      data-interaction-id='15514f'
+                      /><i
+                      id='island-santa-cruz'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1921&quot;}]'
+                      data-interaction-id='9915b3'
+                      /><i
+                      id='island-floreana'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1919&quot;}]'
+                      data-interaction-id='11cabb'
+                      /><i
+                      id='island-santa-fe'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1917&quot;}]'
+                      data-interaction-id='8ee2e5'
+                      /><i
+                      id='island-chinese-hat'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1915&quot;}]'
+                      data-interaction-id='158c5b'
+                      /><i
+                      id='island-baltra'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1913&quot;}]'
+                      data-interaction-id='64f1bb'
+                      /><i
+                      id='island-rabida'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1911&quot;}]'
+                      data-interaction-id='424cd8'
+                      /><i
+                      id='island-bartolome'
+                      className='brxe-icon rw_map--island fas fa-circle'
+                      data-interactions='[{&quot;id&quot;:&quot;rvozpi&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;1861&quot;}]'
+                      data-interaction-id='c88a59'
+                      />
           </div>
         </section>
         <section id='brxe-yaabuj' className='brxe-section rw_section--activities'>
@@ -424,6 +424,7 @@ export function ExperienceGalapagos () {
         </section>
       </main>
       <Footer />
+
     </>
   )
 }

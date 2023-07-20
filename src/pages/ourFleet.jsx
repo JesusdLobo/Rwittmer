@@ -107,7 +107,7 @@ export function OurFleet () {
                   >Which <span
                     style={{ fontWeight: 500 }}
                          >Yacht
-                         </span> would you like to <span style={{ fontWeight: 500 }}>travel</span> with?
+                  </span> would you like to <span style={{ fontWeight: 500 }}>travel</span> with?
                   </div>
                 </div>
                 <div id='brxe-rxignd' className='brxe-div align-items--center flex--row justify-content--end'>
@@ -156,7 +156,7 @@ export function OurFleet () {
             <h3 className='brxe-heading rw_heading__our-fleet--hero-title rw_heading__92 text--white'>Next<br /><span
               style={{ fontWeight: 500 }}
                                                                                                                 >Departure
-            </span>
+                                                                                                                </span>
             </h3>
           </div>
         </section>
@@ -166,7 +166,7 @@ export function OurFleet () {
               <h3 className='brxe-heading rw_heading__our-fleet--hero-title rw_heading__92 text--white'>Our<br /><span
                 style={{ fontWeight: 500 }}
                                                                                                                  >Tip Top<br />Fleet
-              </span>
+                                                                                                                 </span>
               </h3>
             </div>
           </div>
@@ -174,28 +174,28 @@ export function OurFleet () {
         <section className='brxe-section rw_section'>
           <div id='brxe-emjysz' className='brxe-div width--full rw_grid rw_grid__4-col'>
             <div id='brxe-mrsdbj' className='brxe-div rw_flex rw_card__our-fleet rw_bkg__overlay'>
-              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top II</h3><a
-                className='brxe-button bricks-button' href='../fleet/tip-top-ii/index.htm'
+              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top II</h3><Link
+                className='brxe-button bricks-button' to='fleet/tip-top-ii'
                                                                                                   >Ver más
-              </a>
+                                                                                                  </Link>
             </div>
             <div id='brxe-kyxwku' className='brxe-div rw_flex rw_card__our-fleet rw_bkg__overlay'>
-              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top IV</h3><a
-                className='brxe-button bricks-button' href='../fleet/tip-top-iv/index.htm'
+              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top IV</h3><Link
+                className='brxe-button bricks-button' to='fleet/tip-top-iv'
                                                                                                   >Ver más
-              </a>
+                                                                                                  </Link>
             </div>
             <div id='brxe-gyvhoj' className='brxe-div rw_flex rw_card__our-fleet rw_bkg__overlay'>
-              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top V</h3><a
-                className='brxe-button bricks-button' href='../fleet/tip-top-v/index.htm'
+              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Tip Top V</h3><Link
+                className='brxe-button bricks-button' to='fleet/tip-top-v'
                                                                                                  >Ver más
-              </a>
+                                                                                                 </Link>
             </div>
             <div id='brxe-amvcfo' className='brxe-div rw_flex rw_card__our-fleet rw_bkg__overlay'>
-              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Köln</h3><a
-                className='brxe-button bricks-button' href='../fleet/koln/index.htm'
+              <h3 className='brxe-heading rw_heading__24 text--center text--white'>Köln</h3><Link
+                className='brxe-button bricks-button' to='fleet/koln'
                                                                                             >Ver más
-              </a>
+                                                                                            </Link>
             </div>
           </div>
         </section>
@@ -206,17 +206,17 @@ export function OurFleet () {
                                                                                                           >Start <span
                                                                                                             className='rw_p--home-itineraries--highlighted'
                                                                                                                  >planning
-                                                                                                                 </span> your Galapagos
+                                                                                                          </span> your Galapagos
               trip!
-            </span>
-            </span>
+                                                                                                          </span>
+                                                       </span>
               <div id='brxe-rmoqex' className='brxe-div'><span id='brxe-xhzbkb' className='brxe-text-basic'>Contact our
                 <span className='rw_p--home-itineraries--highlighted'> sales team</span>.
-              </span><a
-                                                           className='brxe-button rw_btn--primary rw_btn--outline-primary bricks-button'
-                                                           href='../contact-us/index.htm'
-                                                                >Click here
-                                                                </a>
+                                                         </span><a
+                className='brxe-button rw_btn--primary rw_btn--outline-primary bricks-button'
+                href='../contact-us/index.htm'
+                     >Click here
+                     </a>
               </div>
             </div>
             <div data-script-id='cvjzoa' className='brxe-slider-nested splide' data-splide='{&quot;type&quot;:&quot;slide&quot;,&quot;direction&quot;:&quot;ltr&quot;,&quot;keyboard&quot;:&quot;global&quot;,&quot;height&quot;:&quot;50rem&quot;,&quot;gap&quot;:&quot;0px&quot;,&quot;start&quot;:0,&quot;perPage&quot;:&quot;3&quot;,&quot;perMove&quot;:1,&quot;speed&quot;:400,&quot;interval&quot;:3000,&quot;autoHeight&quot;:false,&quot;autoplay&quot;:false,&quot;pauseOnHover&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;arrows&quot;:false,&quot;pagination&quot;:true,&quot;breakpoints&quot;:{&quot;991&quot;:{&quot;perPage&quot;:&quot;2&quot;},&quot;767&quot;:{&quot;perPage&quot;:&quot;1&quot;}}}'>
@@ -280,40 +280,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >West Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 1
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 1
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >8 Days / 7 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-iv-itinerary-8d-7n-option-1.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
                           Days / 7 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Fernandina, Floreana, Genovesa, Isabela, North Seymour, Santa
                             Cruz, Santiago
@@ -324,7 +324,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -344,40 +344,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >5 Days / 4 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Monday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-iv-itinerary-5d-4n.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>5
                           Days / 4 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Bartolome, Chinese Hat, Plaza, Rabida, San Cristobal, Santa
                             Cruz, Santa Fe, Santiago
@@ -388,7 +388,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -408,40 +408,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >4 Days / 3 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Monday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Monday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-iv-itinerary-4d-3n.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>4
                           Days / 3 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Española, Mosquera, San Cristobal, Santa Cruz
                           </div><a
@@ -451,7 +451,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -471,40 +471,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >8 Days / 7 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-ii-v-itinerary-8d-7n-east-option.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
                           Days / 7 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Española, Floreana, Genovesa, Lobos, Plaza, San Cristobal, Santa
                             Cruz, Santa Fe
@@ -515,7 +515,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -535,40 +535,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >West Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 1
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 1
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >8 Days / 7 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-ii-v-itinerary-8d-7n-west-option.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
                           Days / 7 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Bartolome, Chinese Hat, Fernandina, Isabela, Mosquera, North
                             Seymour, Rabida, Santa Cruz, Santiago
@@ -579,7 +579,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -599,40 +599,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >5 Days / 4 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Monday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-ii-v-itinerary-5d-4n.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>5
                           Days / 4 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Española, Floreana, Lobos, San Cristobal, Santa Cruz
                           </div><a
@@ -642,7 +642,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -662,40 +662,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >4 Days / 3 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Monday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Monday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/tip-top-ii-v-itinerary-4d-3n.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>4
                           Days / 3 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Genovesa, Plaza, Santa Cruz, Santa Fe
                           </div><a
@@ -705,7 +705,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -725,40 +725,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >East Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 2
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 2
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >8 Days / 7 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/koln-itinerary-8d-7n-east-option.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
                           Days / 7 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Española, Floreana, Genovesa, Mosquera, Rabida, San Cristobal,
                             Santa Cruz
@@ -769,7 +769,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
@@ -789,40 +789,40 @@ export function OurFleet () {
                             <div className='brxe-ujaxzj brxe-div'><span
                               className='brxe-kervfg brxe-heading'
                                                                   >West Route
-                            </span><span
-                                                                    className='brxe-pztblr brxe-heading'
-                                                                         >Option 1
-                                                                         </span>
+                                                                  </span><span
+                              className='brxe-pztblr brxe-heading'
+                                   >Option 1
+                                   </span>
                             </div>
                             <div className='brxe-gnczue brxe-div'><span
                               className='brxe-dlaeem brxe-heading'
                                                                   >8 Days / 7 Nights
-                            </span>
+                                                                  </span>
                             </div>
                             <div className='brxe-esmuxg brxe-div'><span
                               className='brxe-osfcsw brxe-heading'
                                                                   >Departures on <span
                                                                     style={{ color: 'var(--secondary)' }}
                                                                                  >Friday
-                                                                                 </span>
-                            </span><span
-                                                                    className='brxe-lgefog brxe-heading'
-                                                                         >Returns on <span
-                                     style={{ color: 'var(--secondary)' }}
-                                               >Friday
-                                               </span>
-                                                                         </span>
+                                                                  </span>
+                                                                  </span><span
+                              className='brxe-lgefog brxe-heading'
+                                   >Returns on <span
+                                                                           style={{ color: 'var(--secondary)' }}
+                                                                                     >Friday
+                                                                                     </span>
+                                   </span>
                             </div>
                           </div><a
                             className='brxe-nnwwzh brxe-button bricks-button'
                             href='../wp-content/uploads/koln-itinerary-8d-7n-west-option.pdf'
                                 >More
                             Information
-                          </a>
+                                </a>
                         </div>
                         <div className='brxe-vatcbz brxe-div back'><span className='brxe-jelmsj brxe-heading'>8
                           Days / 7 Nights
-                        </span>
+                                                                   </span>
                           <div className='brxe-ssyyxs brxe-text-basic'>Islands that you will visit:
                             Baltra, Bartolome, Chinese Hat, Fernandina, Isabela, North Seymour,
                             Plaza, Santa Cruz, Santiago
@@ -833,7 +833,7 @@ export function OurFleet () {
                                 >Download Itinerary<i
                                   className='fas fa-file-arrow-down'
                                                    />
-                          </a>
+                                </a>
                         </div>
                       </div>
                     </div>
