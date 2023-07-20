@@ -10,6 +10,8 @@ import { Router } from './router'
 import { GalleryDetails } from './pages/galleryDetails'
 import { NextDepartures } from './pages/nextDepartures'
 import { TipTopIV } from './pages/tipTopIV'
+import { TipTopV } from './pages/tipTopV'
+import { Koln } from './pages/koln'
 
 function App () {
   const appRoutes = [
@@ -39,11 +41,11 @@ function App () {
     },
     {
       path: '/fleet/tip-top-v',
-      component: OurFleet
+      component: TipTopV
     },
     {
       path: '/fleet/koln',
-      component: OurFleet
+      component: Koln
     },
     {
       path: '/last-minute-deals-and-special-promos',
